@@ -7,6 +7,8 @@ set mouse=
 set showmode
 set showcmd
 set relativenumber
+set incsearch
+set hlsearch
 syntax on
 
 set history=50
